@@ -1,0 +1,17 @@
+{
+  "name": "script",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4",
+    "prisma-client-lib": "^1.28.3"
+  },
+  "devDependencies": {
+    "@types/graphql": "14.0.7",
+    "@types/ws": "6.0.1",
+    "ts-node": "7.0.1",
+    "typescript": "^3.3.3333"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
+}
